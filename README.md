@@ -14,3 +14,7 @@ not trained on hand sign language. In emergency times conveying their message is
 a popular choice to convey information in situations where other forms like speech cannot be used. Voice Conversion 
 System with Hand Gesture Recognition and translation will be very useful to have a proper conversation between a normal 
 person and an impaired person in any language.
+------------------------------------------------------------------------------------------------------------------------
+Project Demo Link:
+
+https://ibmprojecttnt2022tmid01421.s3.jp-tok.cloud-object-storage.appdomain.cloud/PROJECT%20DEMO%20VIDEO.mp4 
