@@ -1,4 +1,4 @@
-Real-Time Communication System Powered by AI for Specially Abled
+Real-Time Communication System Powered by AI for Specially Abled 
 
 Team ID:  PNT2022TMID01421                    
 ----------------------------------------------------------------------------------------------------------------------------
