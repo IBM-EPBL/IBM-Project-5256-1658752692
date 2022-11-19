@@ -8,6 +8,7 @@ Team Members - K Raj Kumar, P Vettri Chezhian, M Naveen Kumar
 ----------------------------------------------------------------------------------------------------------------------------
 
 PROJECT DESCRIPTION:
+
 In our society, we have people with disabilities. The technology is developing day by day but no significant developments
 are undertaken for the betterment of these people. Communications between deaf-mute and a normal person has always been
 a challenging task. It is very difficult for mute people to convey their message to normal people. Since normal people are
