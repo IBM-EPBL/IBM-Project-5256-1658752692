@@ -2,7 +2,11 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 Team ID:  PNT2022TMID01421                    
 ----------------------------------------------------------------------------------------------------------------------------
-Team Members - K Raj Kumar, P Vettri Chezhian, M Naveen Kumar, Yashwanth M
+Team Members - 
+1. K Raj Kumar
+2. P Vettri Chezhian 
+3. M Naveen Kumar 
+4.Yashwanth M
 ----------------------------------------------------------------------------------------------------------------------------
 
 PROJECT DESCRIPTION:
@@ -15,6 +19,6 @@ a popular choice to convey information in situations where other forms like spee
 System with Hand Gesture Recognition and translation will be very useful to have a proper conversation between a normal 
 person and an impaired person in any language.
 ------------------------------------------------------------------------------------------------------------------------
-Project Demo Link:
+PROJECT DEMO LINK:
 
 https://ibmprojecttnt2022tmid01421.s3.jp-tok.cloud-object-storage.appdomain.cloud/PROJECT%20DEMO%20VIDEO.mp4 
