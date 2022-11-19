@@ -7,7 +7,7 @@ Team Members -
 1. K Raj Kumar
 2. P Vettri Chezhian 
 3. M Naveen Kumar
-4. 4.Yashwanth M
+4. Yashwanth M
 ----------------------------------------------------------------------------------------------------------------------------
 
 PROJECT DESCRIPTION:
