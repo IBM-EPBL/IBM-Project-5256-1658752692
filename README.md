@@ -1,15 +1,15 @@
-**Real-Time Communication System Powered by AI for Specially Abled 
+_Real-Time Communication System Powered by AI for Specially Abled _
 
-Team ID:  PNT2022TMID01421                    
+_Team ID:  PNT2022TMID01421_                    
 ----------------------------------------------------------------------------------------------------------------------------
-Team Members - 
+_Team Members - 
 1. K Raj Kumar
 2. P Vettri Chezhian 
 3. M Naveen Kumar
-4. 4.Yashwanth M
+4. 4.Yashwanth M_
 ----------------------------------------------------------------------------------------------------------------------------
 
-PROJECT DESCRIPTION:
+_PROJECT DESCRIPTION_
 
 In our society, we have people with disabilities. The technology is developing day by day but no significant developments
 are undertaken for the betterment of these people. Communications between deaf-mute and a normal person has always been
@@ -19,13 +19,10 @@ a popular choice to convey information in situations where other forms like spee
 System with Hand Gesture Recognition and translation will be very useful to have a proper conversation between a normal 
 person and an impaired person in any language.
 ------------------------------------------------------------------------------------------------------------------------
-PROJECT DEMO LINK:
+_PROJECT DEMO LINK:_
 
-IBM OBJECT STORAGE LINK
+_IBM OBJECT STORAGE LINK_
 https://ibmprojecttnt2022tmid01421.s3.jp-tok.cloud-object-storage.appdomain.cloud/PROJECT%20DEMO%20VIDEO.mp4 
 
-DRIVE LINK 
+_DRIVE LINK_ 
 https://drive.google.com/file/d/1wrISglfYOh5FidITGn9UUp1tpYuqoO3j/view?usp=share_link
-**
-
-
