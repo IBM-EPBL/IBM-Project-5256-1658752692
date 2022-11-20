@@ -1,5 +1,5 @@
 Real-Time Communication System Powered by AI for Specially Abled 
-
+---------------------------------------------------------------------------------------------------------------------------------
 Team ID:  PNT2022TMID01421                 
 
 Team Members - 
@@ -7,7 +7,7 @@ Team Members -
 2. P Vettri Chezhian 
 3. M Naveen Kumar
 4. Yashwanth 
-
+---------------------------------------------------------------------------------------------------------------------------------
 PROJECT DESCRIPTION
 
 In our society, we have people with disabilities. The technology is developing day by day but no significant developments
@@ -17,7 +17,7 @@ not trained on hand sign language. In emergency times conveying their message is
 a popular choice to convey information in situations where other forms like speech cannot be used. Voice Conversion 
 System with Hand Gesture Recognition and translation will be very useful to have a proper conversation between a normal 
 person and an impaired person in any language
-
+----------------------------------------------------------------------------------------------------------------------------------
 PROJECT DEMO LINK:
 
 IBM OBJECT STORAGE LINK :
