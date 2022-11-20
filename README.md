@@ -18,12 +18,12 @@ a popular choice to convey information in situations where other forms like spee
 System with Hand Gesture Recognition and translation will be very useful to have a proper conversation between a normal 
 person and an impaired person in any language
 ----------------------------------------------------------------------------------------------------------------------------------
-PROJECT DEMO LINK:
+PROJECT DEMO LINK
 
-IBM OBJECT STORAGE LINK :
+IBM OBJECT STORAGE LINK 
 
 https://ibmprojecttnt2022tmid01421.s3.jp-tok.cloud-object-storage.appdomain.cloud/PROJECT%20DEMO%20VIDEO.mp4 
 
-DRIVE LINK :
+DRIVE LINK 
 
 https://drive.google.com/file/d/1wrISglfYOh5FidITGn9UUp1tpYuqoO3j/view?usp=share_link
