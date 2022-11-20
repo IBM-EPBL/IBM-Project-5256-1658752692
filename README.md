@@ -8,7 +8,7 @@ Team Members -
 3. M Naveen Kumar
 4. Yashwanth 
 ---------------------------------------------------------------------------------------------------------------------------------
-PROJECT DESCRIPTION
+PROJECT DESCRIPTION   
 
 In our society, we have people with disabilities. The technology is developing day by day but no significant developments
 are undertaken for the betterment of these people. Communications between deaf-mute and a normal person has always been
