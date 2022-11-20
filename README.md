@@ -18,7 +18,7 @@ a popular choice to convey information in situations where other forms like spee
 System with Hand Gesture Recognition and translation will be very useful to have a proper conversation between a normal 
 person and an impaired person in any language
 ----------------------------------------------------------------------------------------------------------------------------------
-PROJECT DEMO LINK        
+PROJECT DEMO LINK:
 
 IBM OBJECT STORAGE LINK 
 
