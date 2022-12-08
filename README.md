@@ -1,6 +1,6 @@
 Real-Time Communication System Powered by AI for Specially Abled 
 ---------------------------------------------------------------------------------------------------------------------------------
-Team ID:  PNT2022TMID01421                 
+Team ID :  PNT2022TMID01421                 
 
 Team Members - 
 1. K Raj Kumar
